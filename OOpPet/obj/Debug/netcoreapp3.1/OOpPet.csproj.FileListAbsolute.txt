@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\OOpPet\OOpPet\obj\Debug\netcoreapp3.1\OOpPet.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\OOpPet\OOpPet\obj\Debug\netcoreapp3.1\OOpPet.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\OOpPet\OOpPet\obj\Debug\netcoreapp3.1\OOpPet.AssemblyInfo.cs
+C:\Users\opilane\source\repos\OOpPet\OOpPet\obj\Debug\netcoreapp3.1\OOpPet.csproj.CoreCompileInputs.cache
